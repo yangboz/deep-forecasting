@@ -42,7 +42,7 @@ Update the parameters in /model/params.yaml if necessary.
 
 1. Prepare the data:
     ```
-    python preprocess.py
+    python script/preprocess.py
     ```
 2. Train the model:
     ```
